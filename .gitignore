@@ -1,4 +1,9 @@
 /Pacman/Debug/*
+/Pacman/x64/*
+/Pacman/.vs/*
+/Pacman/Pacman/Debug/*
+/Pacman/Pacman/x64/*
+
 # Prerequisites
 *.d
 
@@ -31,3 +36,8 @@
 *.exe
 *.out
 *.app
+
+*.ico
+*.vcxproj
+*.filters
+*.user
